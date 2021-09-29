@@ -11,5 +11,5 @@
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Executar o projeto
-No path `\verificador-ip-externo` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
+No path `\abrir-navegador` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
 >python nomedoarquivo.py
